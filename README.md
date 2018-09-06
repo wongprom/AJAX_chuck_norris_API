@@ -9,6 +9,6 @@ We get random Chuck Norris Jokes from a API with AJAX
 - JavaScript
 - Ajax
 
-## API
+## WEB API
 
 - [www.icdn.com](http://www.icndb.com/api/)
